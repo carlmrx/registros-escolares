@@ -36,6 +36,8 @@
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -43,6 +45,8 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.Snow;
+            this.panel1.Controls.Add(this.label3);
+            this.panel1.Controls.Add(this.label2);
             this.panel1.Controls.Add(this.pictureBox1);
             this.panel1.Controls.Add(this.label1);
             this.panel1.Controls.Add(this.textBox2);
@@ -80,14 +84,14 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(52, 158);
+            this.textBox1.Location = new System.Drawing.Point(52, 187);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(202, 22);
             this.textBox1.TabIndex = 2;
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(52, 205);
+            this.textBox2.Location = new System.Drawing.Point(52, 241);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(202, 22);
             this.textBox2.TabIndex = 3;
@@ -96,7 +100,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.ForeColor = System.Drawing.Color.Purple;
-            this.label1.Location = new System.Drawing.Point(64, 241);
+            this.label1.Location = new System.Drawing.Point(64, 277);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(174, 17);
             this.label1.TabIndex = 4;
@@ -112,6 +116,24 @@
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 5;
             this.pictureBox1.TabStop = false;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(121, 167);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(57, 17);
+            this.label2.TabIndex = 6;
+            this.label2.Text = "Usuario";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(111, 221);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(81, 17);
+            this.label3.TabIndex = 7;
+            this.label3.Text = "Contraseña";
             // 
             // Login
             // 
@@ -140,5 +162,7 @@
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label2;
     }
 }
