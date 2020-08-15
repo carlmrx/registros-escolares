@@ -8,3 +8,9 @@ C:\Users\carlo\Desktop\Practica\obj\Debug\Practica.csproj.CoreCompileInputs.cach
 C:\Users\carlo\Desktop\Practica\obj\Debug\Practica.exe
 C:\Users\carlo\Desktop\Practica\obj\Debug\Practica.pdb
 C:\Users\carlo\Desktop\Practica\obj\Debug\Practica.Login.resources
+C:\Users\carlo\Desktop\Practica\obj\Debug\Practica.Start.resources
+C:\Users\carlo\Desktop\Practica\obj\Debug\Practica.Admin.resources
+C:\Users\carlo\Desktop\Practica\obj\Debug\Practica.AdminAlumno.resources
+C:\Users\carlo\Desktop\Practica\obj\Debug\Practica.AdminProfesores.resources
+C:\Users\carlo\Desktop\Practica\obj\Debug\Practica.Alumno.resources
+C:\Users\carlo\Desktop\Practica\obj\Debug\Practica.Profesor.resources
