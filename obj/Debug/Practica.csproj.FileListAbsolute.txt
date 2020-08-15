@@ -1,0 +1,10 @@
+C:\Users\carlo\Desktop\Practica\bin\Debug\Practica.exe.config
+C:\Users\carlo\Desktop\Practica\bin\Debug\Practica.exe
+C:\Users\carlo\Desktop\Practica\bin\Debug\Practica.pdb
+C:\Users\carlo\Desktop\Practica\obj\Debug\Practica.csprojAssemblyReference.cache
+C:\Users\carlo\Desktop\Practica\obj\Debug\Practica.Properties.Resources.resources
+C:\Users\carlo\Desktop\Practica\obj\Debug\Practica.csproj.GenerateResource.cache
+C:\Users\carlo\Desktop\Practica\obj\Debug\Practica.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Practica\obj\Debug\Practica.exe
+C:\Users\carlo\Desktop\Practica\obj\Debug\Practica.pdb
+C:\Users\carlo\Desktop\Practica\obj\Debug\Practica.Login.resources
