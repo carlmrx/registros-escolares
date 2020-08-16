@@ -1,0 +1,30 @@
+Especificacion de interfaces:
+Start-> Carga las coneciones a la bd y hace pruebas de coneccion
+Loguin-> Inicia secion y asigna segun las caracteristicas el uasuario:
+   Admin: tiene el control de todo puede Consultar Alumnos y profesores,
+	  tambien puede administrar los cursos Creando nuevos cursos ,asignarle profesores
+	  y hacer integraciones en grupos con alumnos.
+   Profesores: Pueden ver sus cursos y las listas de alumnos de cada curso
+   Alumno: Se puede ver sus cursos y se puede inscribir a los exixtentes correspondientes a su nivel.
+ 
+Admin -> Ve los alumnos totales, profesores totales y cursos totales
+	 Boton de ver todos los alumnos Muestra una tabla de todos los alumnos
+	 Boton ver todos los profesores Muestra tabla de todos los profesore
+	 Boton de ver todos los cursos Muestra todos los cursos y el numero de alumnos
+	    Admin cursos 
+	 	Boton crear curso abre interfaz de creacion de curso -> Crea nombre y nivel
+	 	Boton eliminar curso
+	     Admin prof
+		Boton registrar Profesor o asignar
+	 	Eliminar profesor 
+	     Admin Alumno
+		Boton Inscribir alumno
+	 	Eliminar Alumno
+	 Buscador por matricula
+Alumno ->Boton ver cursos 
+	 Boton inscribirse
+Profesor -> Boton ver cursos 
+		boton ver Lista de alumnos.  
+
+Nota: Solo el Administradoe En este caso la Univercidad Pueden registrar alumnos esto con la finalidad 
+      de garantizar la calidad de el servicio.
